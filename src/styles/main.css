@@ -1,0 +1,29 @@
+.form-row {
+    display: flex; 
+    justify-content: flex-start;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: end;
+    margin: 10px -5px;
+}
+
+.form-item {
+    display: inline-block;
+    margin: 5px;
+    flex-grow: 1;
+}
+
+.content-block {
+    padding: 20px; 
+    background-color: rgba(0,0,0,.05);
+    border-radius: 20px;
+}
+
+.select::after {
+    top: auto;
+    bottom: 16px;
+}
+
+.select select {
+    padding: 0 2em 0 1em;
+}

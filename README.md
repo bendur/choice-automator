@@ -2,6 +2,8 @@
 
 Choice Automator is a tool for making random choices from a set list of options. Choice history is preserved, and you can choose whether to include the previous choices as options for your next set of choices.
 
+![screenshot of the running application](docs/img/default-screen-desktop-mobile.png);
+
 ### Setting Up A Development Environment
 
 Choice Automator requires a CFML engine like [Lucee](https://lucee.org). I recommend setting it up using [CommandBox](https://www.ortussolutions.com/products/commandbox).

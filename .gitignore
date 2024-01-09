@@ -1,3 +1,4 @@
 /src/data/choices.json
 *.vscode
-*.DS_Store
+*.DS_*
+*.gitignore
